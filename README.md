@@ -18,4 +18,4 @@ C++ · JUCE · C · CMake · Git · PHP / SQL · Python
 
 Je compose et publie de la guitare instrumentale sous le nom **Faoxi**.
 
-📫 [LinkedIn]([LIEN_LINKEDIN](https://www.linkedin.com/in/mathis-bourguignon/))
+📫 [LinkedIn](https://www.linkedin.com/in/mathis-bourguignon/)
